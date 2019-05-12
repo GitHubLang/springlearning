@@ -9,17 +9,14 @@
         <module name="springlearning_manager_mapper" />
         <module name="springlearning_sso" />
         <module name="springlearning_manager_service" />
-        <module name="springlearning_redis" />
         <module name="springlearning_search" />
         <module name="springlearning_rest" />
         <module name="springlearning_mamager_pojo" />
+        <module name="springlearning_redis" />
         <module name="springlearning_manager_web" />
         <module name="springlearning" />
         <module name="springlearning_common" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="springlearning" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
